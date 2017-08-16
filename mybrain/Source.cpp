@@ -5,7 +5,7 @@
 // 'l' = lighting on/off
 // 's' = change view of teapot and cube
 
-
+//lolll
 #include <windows.h>  // This header file will be needed for some windows compilers
 //#include <GL/gl.h>   // gl.h and glu.h also maybe needed for some compilers
 //#include <GL/glu.h>
